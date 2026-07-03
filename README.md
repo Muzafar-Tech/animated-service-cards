@@ -1,22 +1,22 @@
-# 🚀 Animated Social Icons Showcase
+# 🚀 Animated Service Cards
 
-A premium UI animation showcase built with **React**, **Vite**, **Tailwind CSS v4**, and **Framer Motion**.
+A premium collection of modern **Animated Service Cards** built with **React, Vite, Tailwind CSS v4, and Framer Motion**.
 
-This project demonstrates modern micro-interactions, smooth hover animations, glassmorphism, and premium UI design techniques commonly used in high-end SaaS websites and portfolios.
+This project showcases elegant card animations, smooth hover effects, glassmorphism, and interactive UI components that can be used in portfolios, SaaS websites, business landing pages, and modern web applications.
 
 ---
 
 ## ✨ Features
 
 - ⚡ Smooth Framer Motion animations
-- 🎯 Magnetic hover interactions
-- 💜 Glassmorphism social cards
-- 🌈 Soft neon glow effects
-- 🎨 Premium modern UI
+- 🎯 Interactive hover effects
+- 💎 Modern glassmorphism design
+- 🌈 Beautiful gradient accents
+- 🎨 Premium UI/UX
 - 📱 Fully responsive
 - 🚀 Built with React + TypeScript
-- 🎭 Iconify icons
 - ⚙️ Tailwind CSS v4
+- 🎭 Iconify Icons
 
 ---
 
@@ -33,31 +33,31 @@ This project demonstrates modern micro-interactions, smooth hover animations, gl
 
 ## 📦 Installation
 
-Clone the repository
+### Clone the repository
 
 ```bash
-git clone https://github.com/Muzafar-Tech/animated-social-icons.git
+git clone https://github.com/Muzafar-Tech/animated-service-cards.git
 ```
 
-Move into the project
+### Move into the project
 
 ```bash
-cd animated-social-icons
+cd animated-service-cards
 ```
 
-Install dependencies
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-Start the development server
+### Start the development server
 
 ```bash
 npm run dev
 ```
 
-Open
+Open your browser:
 
 ```
 http://localhost:5173
@@ -71,9 +71,7 @@ http://localhost:5173
 src/
 │
 ├── assets/
-│   ├── hero.png
-│   ├── muzafar-tech-logo-navbar.png
-│
+├── components/
 ├── App.tsx
 ├── main.tsx
 ├── index.css
@@ -86,40 +84,56 @@ package.json
 
 ## 🎯 What this project demonstrates
 
-This project focuses on creating premium UI experiences through animation rather than complex functionality.
+This project focuses on building premium animated UI components using modern frontend technologies.
 
 It showcases:
 
 - Motion Design
-- Interactive Hover Effects
-- Modern Hero Sections
-- Glassmorphism
+- Interactive Hover Animations
+- Modern Service Cards
+- Glassmorphism UI
 - Micro Interactions
-- Responsive UI
-- Component Architecture
+- Responsive Design
+- Component-Based Architecture
+- Clean & Scalable Code
+
+---
+
+## 💡 Use Cases
+
+These animated service cards are ideal for:
+
+- Business Websites
+- Agency Landing Pages
+- SaaS Products
+- Portfolio Websites
+- Startup Websites
+- Personal Branding
 
 ---
 
 ## 📸 Preview
 
-> Add screenshots or GIFs here.
+Add screenshots or GIFs here.
 
 ---
 
 ## 👨‍💻 Author
 
-**Muzafar Tech**
+### Muzafar Tech
 
-Building premium web experiences using React, MERN Stack, Tailwind CSS and Framer Motion.
+Building premium web experiences using **React, MERN Stack, Tailwind CSS, and Framer Motion**.
 
-GitHub:
-https://github.com/Muzafar-Tech
+🌐 Portfolio: https://muzafar-tech.netlify.app
 
-Portfolio:
-https://muzafar-tech.netlify.app
+💻 GitHub: https://github.com/Muzafar-Tech
 
 ---
 
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
+
+It helps support the project and motivates future open-source contributions.
+
+Happy Coding! 🚀
